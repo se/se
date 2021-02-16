@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Selçuk**. I am CTO at [MonoFor, Inc.](https://monofor.com)
+My name is **Selçuk**. I am CEO at [MonoFor, Inc.](https://monofor.com)
 
 I’m currently working on; 
 
